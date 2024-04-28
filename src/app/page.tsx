@@ -7,26 +7,20 @@ export default async function Home() {
         <div className="container">
           <div className="intro">
             <img
-              src="/imgs/alsiam.png"
-              alt="Al Siam Profile"
+              src="/imgs/angelicaheadshot.jpeg"
+              alt="Angelica Headshot"
               className="shadow-dark"
             />
-            <h1>Your Name</h1>
-            <p>Your expertise</p>
+            <h1>Angelica Erazo</h1>
+            <p>Cybersecurity Engineer, Software Developer, Artificial Intelligence Implementer</p>
             <div className="social-links">
-              <a href="https://twitter.com/" target="_blank">
+              <a href="https://twitter.com/angelicaerazo_" target="_blank">
                 <i className="fa fa-twitter" />
               </a>
-              <a href="https://facebook.com/" target="_blank">
-                <i className="fa fa-facebook" />
-              </a>
-              <a href="https://github.com/" target="_blank">
+              <a href="https://github.com/amerazo" target="_blank">
                 <i className="fa fa-github" />
               </a>
-              <a href="https://instagram.com/" target="_blank">
-                <i className="fa fa-instagram" />
-              </a>
-              <a href="https://linkedin.com/in/" target="_blank">
+              <a href="https://www.linkedin.com/in/angelicaerazo/" target="_blank">
                 <i className="fa fa-linkedin" />
               </a>
             </div>
